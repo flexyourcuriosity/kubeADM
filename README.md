@@ -1,3 +1,5 @@
+OPEN THIS DOCUMENT FOR BETTER UNDERSTANDING - https://www.canva.com/design/DAFxDnybydw/Z49SCEz4_TSPDiwMgfrjww/edit?utm_content=DAFxDnybydw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 KubeADM is a command-line tool used to bootstrap, initialize, and manage Kubernetes clusters. It is part of the Kubernetes project and is particularly helpful for simplifying the setup of a Kubernetes cluster, making it easier for administrators and developers to get started with Kubernetes.
 Before you begin 
 A compatible Linux host. The Kubernetes project provides generic instructions for Linux distributions based on Debian and Red Hat.
